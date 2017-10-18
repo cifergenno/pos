@@ -1,0 +1,9 @@
+main = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+find_item = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+item_desc = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+transac = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+customer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+user = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+returnme = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+userpassword = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addclient = 0, 0, 0, 0, C, 0, 0, 0, 0, C
